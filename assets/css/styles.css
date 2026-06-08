@@ -2,6 +2,14 @@
 
 h1 {
 	font-family: Arial;
-	color: powderblue;
+	color: deepskyblue;
 	font-size: 220px;
+	letter-spacing: 10px;
+}
+
+div {
+	font-family: Georgia;
+	color: dodgerblue;
+	font-size: 30px;
+	letter-spacing: 5px;
 }
