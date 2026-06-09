@@ -1,5 +1,11 @@
 /* styles.css */
 
+html {
+	background-color: lightcyan;
+	background-image: 
+		linear-gradient(lightcyan, steelblue);
+}
+
 h1 {
 	font-family: Arial;
 	color: deepskyblue;
